@@ -1,13 +1,6 @@
-# Header
 
-# H1
-## H2
-### H3
-
-**bold text**
-
-Heading 	
-# H1
+# Heading 	
+"# H1"
 ## H2
 ### H3
 Bold 	
