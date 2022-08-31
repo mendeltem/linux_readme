@@ -2,4 +2,8 @@
 
 ` sudo adduser -u 1022 dellorca  -g nora-extern `
 
-` /etc/passwd`
+# list all users
+
+` cat /etc/passwd`
+
+
